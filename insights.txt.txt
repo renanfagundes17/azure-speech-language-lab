@@ -1,0 +1,4 @@
+- As vozes neurais do Azure são realistas e úteis para aplicativos acessíveis.
+- A análise de sentimento é precisa mesmo em textos curtos.
+- Pode-se integrar os serviços com apps usando REST APIs ou SDKs .NET/Python/Java.
+- Language Studio suporta projetos customizados com aprendizado contínuo.
